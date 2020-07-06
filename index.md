@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Hi, I'm Aiden Gindin. I'm a junior studying computer science at Case Western Reserve University.
