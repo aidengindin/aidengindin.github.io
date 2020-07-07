@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resume
+background: 'assets/images/kayaking.jpg'
 ---
 
 # Work Experience
