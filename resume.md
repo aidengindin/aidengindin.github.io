@@ -26,7 +26,7 @@ Full-time Linux user for over 6 years. Comfortable in the terminal. Some experie
 
 # Education
 
-## Case Western Reserve University \hfill Cleveland, OH
+## Case Western Reserve University, Cleveland, OH
 
 *Computer Science BS, May 2022, GPA: 3.95/4.0*
 
@@ -50,7 +50,7 @@ Regular expressions, scripting, web scraping, and other "Linux power tools." Bui
 Taught myself Python starting in middle school.
 
 # Honors and Awards
-- Dean's High Honors List, Fall 2018, Spring 2019, and Fall 2019.
+- Dean's High Honors List, Fall 2018, Spring 2019, Fall 2019, and Spring 2020.
 - Nominated for CWRU's SAGES Essay Prize for an essay written in Fall 2018.
 
 # Community & School Involvement
